@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/awasome2003/GPT3.git/static/css/main.3454379b.css",
+    "main.js": "/awasome2003/GPT3.git/static/js/main.a136a90f.js",
+    "static/media/ai.png": "/awasome2003/GPT3.git/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/awasome2003/GPT3.git/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/awasome2003/GPT3.git/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/awasome2003/GPT3.git/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/awasome2003/GPT3.git/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/awasome2003/GPT3.git/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/awasome2003/GPT3.git/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/awasome2003/GPT3.git/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/awasome2003/GPT3.git/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/awasome2003/GPT3.git/index.html",
+    "main.3454379b.css.map": "/awasome2003/GPT3.git/static/css/main.3454379b.css.map",
+    "main.a136a90f.js.map": "/awasome2003/GPT3.git/static/js/main.a136a90f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3454379b.css",
+    "static/js/main.a136a90f.js"
+  ]
+}
